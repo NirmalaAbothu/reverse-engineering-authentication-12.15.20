@@ -33,7 +33,7 @@ following commands
 -    Then navigae to VS Code and open the `schema.sql` file copy then
 -    Open MySQL Workbench and paste the code and execute
 -    Update username,password and database to
-     MySQLWorkbench username,password and database name in config.json file.
+     MySQLWorkbench username,password and database name in config.json file(development envoronment).
 -    Then navigate to terminal run the command `node server.js` ,then navigate to browser and enter "localhost:8080" to see app
      in browser.
 
